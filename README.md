@@ -1,5 +1,6 @@
 # Starter Web Project
 
+Simple web site development
 
 ## Introduction
 
@@ -8,3 +9,4 @@
 ## How To Contribute
 
 ## Deployment
+

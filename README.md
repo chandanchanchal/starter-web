@@ -5,7 +5,7 @@ Simple web site development
 
 ## Introduction
 This is example to show parts of the git repository  and various commands use a web projects
-Adding a line for rebasing example.
+Adding a line for rebasing example.more changes from myfeature branch 2
 
 
 ## Purpose
